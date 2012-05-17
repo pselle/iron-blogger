@@ -1,3 +1,12 @@
 This is a fork of the Iron Blogger repo.
 
 Edit bloggers.yml to add/remove bloggers.
+
+Structure for this file:
+name:
+  links:
+  (opt) end: [date]
+  - [Name, 'url', 'feed url']
+  (opt) skip: 
+  (opt) - [date(s)]
+  start: [date]
