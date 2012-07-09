@@ -1,9 +1,12 @@
+cfarm:
+  links:
+  - [Cat Farman, 'http://cfarman.com/category/blog/', 'http://cfarman.com/category/blog/feed/']
+  start: 5/20
+myasmine:
+  links:
+  - [myasmine, 'http://www.myasmine.com/', 'http://www.myasmine.com/feed/']
+  start: 5/20
 pselle:
   links:
   - [The Webivore, 'http://thewebivore.com', 'http://thewebivore.com/rss']
-  start: 5/20
-  # 08/06/2010
-myasmine:
-  links:
-  - [@myasmine, 'http://www.myasmine.com/', 'http://www.myasmine.com/feed/']
   start: 5/20

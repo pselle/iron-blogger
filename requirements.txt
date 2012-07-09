@@ -1,0 +1,6 @@
+distribute==0.6.24
+wsgiref==0.1.2
+lxml
+yaml
+urllib2
+urlparse

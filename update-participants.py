@@ -7,8 +7,8 @@ import xmlrpclib
 import subprocess
 
 
-XMLRPC_ENDPOINT = 'http://iron-blogger.mit.edu/xmlrpc.php'
-USER            = 'nelhage'
+XMLRPC_ENDPOINT = 'http://pamelaselle.com/ironbloggista/xmlrpc.php'
+USER            = 'pam'
 BLOG_ID         = 1
 PAGE_ID         = 16
 
